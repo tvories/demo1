@@ -1,1 +1,3 @@
 This is a cool new module that we have added to master.
+
+We just added more to our new feature
