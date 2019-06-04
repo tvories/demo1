@@ -1,0 +1,1 @@
+This is a cool new module that we have added to master.
